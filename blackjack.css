@@ -10,7 +10,8 @@ color: white;
 font-weight: bold;
 
 }
-#message-el{font-style: italic;
+#message-el {
+    font-style: italic;
 
 }
 button{
@@ -22,4 +23,6 @@ button{
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top: 2px;
 }
